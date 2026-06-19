@@ -1221,3 +1221,7 @@ body.modal-open {
     align-items: stretch;
   }
 }
+.logo {
+    height: 50px;
+    width: auto;
+}
